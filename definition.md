@@ -17,6 +17,8 @@ Propongo cuatro ejercicios para guiar la reflexión sobre lo que pueder la socio
   
 3. Revisemos que ocurre en la web respecto a iniciativas que se puedan enmarcar en la sociología digital, quienes son? qué hacen? dónde se ubican?
 
+4. Aventurarnos a dar una definición de sociología digital situada y contextualizada. Que relación tienen con los métodos digitales o con la ciencia social computacional.
+
 
 
 
